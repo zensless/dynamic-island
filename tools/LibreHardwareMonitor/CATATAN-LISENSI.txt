@@ -1,0 +1,5 @@
+LibreHardwareMonitor v0.9.6 (rilis resmi, berkas LibreHardwareMonitor.zip, tanpa perubahan).
+Sumber dan kode: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+Lisensi: Mozilla Public License 2.0 (https://www.mozilla.org/MPL/2.0/).
+Disertakan di sini agar Dynamic Island dapat membaca suhu CPU tanpa unduhan terpisah.
+Pembacaan suhu CPU memakai driver PawnIO (https://pawnio.eu), yang dipasang sekali atas persetujuan Anda.

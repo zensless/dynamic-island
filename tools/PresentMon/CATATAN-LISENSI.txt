@@ -1,0 +1,3 @@
+PresentMon 2.6.0 (rilis resmi, berkas PresentMon-2.6.0-x64.exe, tanpa perubahan).
+Sumber dan kode: https://github.com/GameTechDev/PresentMon
+Lisensi: MIT (hak cipta Intel Corporation). Disertakan agar Dynamic Island dapat menampilkan FPS tanpa unduhan terpisah.
